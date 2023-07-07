@@ -1,0 +1,28 @@
+.transaction__history {
+  width: 400px;
+  margin: 20px auto;
+}
+
+.head {
+  height: 30px;
+  background-color: #7481fa;
+  color: #eee;
+}
+
+.line {
+  height: 30px;
+  background-color: #ddd;
+}
+
+.line:nth-child(2n) {
+  background-color: #eee;
+}
+
+.type {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+td {
+  text-align: center;
+}
