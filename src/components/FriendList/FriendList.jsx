@@ -22,7 +22,11 @@ const FriendList = ({ friends }) => {
 };
 
 FriendList.propTypes = {
-  text: PropTypes.string,
+  friends: PropTypes.arrayOf(
+    PropTypes.shape({
+      id: PropTypes.number.isRequired,
+    })
+  ),
 };
 
 export default FriendList;

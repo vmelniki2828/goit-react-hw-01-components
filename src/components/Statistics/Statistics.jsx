@@ -5,7 +5,7 @@ const Statistics = ({ title, stats }) => {
   return (
     <>
       <section className={styles.statistics}>
-        <h2 className={styles.title}>{title}</h2>
+        <h2 className={styles.title}>{title ? {title} : ""}</h2>
 
         <ul className={styles.stat__list}>
           {stats.map(state => {
