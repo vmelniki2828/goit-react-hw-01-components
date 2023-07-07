@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//vmelniki2828.github.io/goit-react-hw-01-components/static/css/main.243a2fb4.css",
-    "main.js": "//vmelniki2828.github.io/goit-react-hw-01-components/static/js/main.5c0110ab.js",
+    "main.js": "//vmelniki2828.github.io/goit-react-hw-01-components/static/js/main.420dc7fb.js",
     "index.html": "//vmelniki2828.github.io/goit-react-hw-01-components/index.html",
     "main.243a2fb4.css.map": "//vmelniki2828.github.io/goit-react-hw-01-components/static/css/main.243a2fb4.css.map",
-    "main.5c0110ab.js.map": "//vmelniki2828.github.io/goit-react-hw-01-components/static/js/main.5c0110ab.js.map"
+    "main.420dc7fb.js.map": "//vmelniki2828.github.io/goit-react-hw-01-components/static/js/main.420dc7fb.js.map"
   },
   "entrypoints": [
     "static/css/main.243a2fb4.css",
-    "static/js/main.5c0110ab.js"
+    "static/js/main.420dc7fb.js"
   ]
 }
